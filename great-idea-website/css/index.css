@@ -67,27 +67,111 @@ h1, h2, h3, h4, h5 {
 
 nav {
 	display:inline-block;
-	width: 200px;
-	margin-left: 10px;
+	width: 100px;
+	margin-left: 100px;
 }
 
-.top h1{
-	font-size: 100px;
-	padding: 20px;
-	width:200px;
 
+.top {
+
+	margin:150px;
+}
+.top h1{
+	
+	font-size: 90px;
+	padding: 10px;
+	width:200px;
+	margin-left: 100px;
+	text-align: center;
 }
 .top div{
 	border: 1px solid black;
 	width:200px;
-	padding:20px;
-	margin-left:30px;
+	margin-left:150px;
+	padding: 10px;
+	text-align: center;
 }
 .top img {
-	padding-right: 100px;
+	
+
+	margin-top: 150px;
+	margin-left:800px;
+	position: absolute;
+	left: 300;
+	top:0;
+}
+.bottom1  {
+
+	
+	display:inline-block;
+	width:600px;
+	margin-left:100px;
+}
+.bottom2 {
+
+	
+	display:inline-block;
+	width:600px;
+	margin-left:100px;
+	margin-bottom: 50px;
+}
+.middle-img {
+	
+	margin-left: 100px;
+	width: 1300px;
+	margin-bottom: 50px;
 }
 
-p {
+
+.last {
+	
 	display:inline-block;
-	text-align:justify;
+	width:400px;
+	margin-left:100px;
+}
+
+
+
+.last-2 {
+	
+	display:inline-block;
+	width:400px;
+	margin-left:33px;
+}
+
+
+
+
+.last-3 {
+	
+	display:inline-block;
+	width:400px;
+	margin-left:33px;
+
+}
+
+footer {
+	margin:100px;
+}
+
+.address {
+		margin-bottom: 15px;
+}
+
+.phone {
+	margin-bottom: 15px;
+
+}
+
+.copywrite {
+	margin-top:60px;
+	margin-left: 500px;
+}
+
+div {
+	border: 1px solid black;
+	margin-top:30px;
+	margin-bottom: 30px;
+	margin-left: 100px;
+	width:1300px;
 }
